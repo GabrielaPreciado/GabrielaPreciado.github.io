@@ -5,5 +5,11 @@
     <lastmod>2017-05-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://gabrielapreciado.github.io/images/gaby-crop-u2581.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gabrielapreciado.github.io/images/gaby.jpg</image:loc>
+    </image:image>
   </url>
 </urlset>

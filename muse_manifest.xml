@@ -1,8 +1,11 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="gabrielapreciado.github.io" resolutions="1x" timestamp="1495273142385">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="gabrielapreciado.github.io" resolutions="1x" timestamp="1495281253020">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="master_a-p_g_-maestra.css" crc="174370818" ref="index"/>
-    <file name="index.css" crc="4188240194" ref="index"/>
+    <file name="master_a-p_g_-maestra.css" crc="4104918356" ref="index"/>
+    <file name="index.css" crc="436298496" ref="index"/>
+    <file name="nomq_preview_master_a-p_g_-maestra.css" crc="3824530138" ref="index"/>
+    <file name="nomq_index.css" crc="252625433" ref="index"/>
+    <file name="iefonts_index.css" crc="3824530138" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -14,12 +17,27 @@
     <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="index"/>
     <file name="html5shiv.js" crc="4241844378" ref="index"/>
     <file name="require.js" crc="4234670167" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="146279342" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="433634197" ref="index"/>
   </folder>
   <folder name="images">
     <file name="textura.jpg" crc="4083333187" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u365-6.png" crc="192238348" ref="index"/>
+    <file name="u365-6.png" crc="238043855" ref="index"/>
+    <file name="gaby-crop-u2581.jpg" crc="3805446465" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="textura-rosa.jpg" crc="39375785" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u3224-4.png" crc="4274842831" ref="index"/>
+    <file name="u365-62.png" crc="59245854" ref="index"/>
+    <file name="gaby.jpg" crc="4216363938" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u3224-42.png" crc="4274842831" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
   </folder>
-  <file name="index.html" crc="390325752" seo="true" mt="1495272539234" redirect="true"/>
+  <file name="index.html" crc="167220434" seo="true" mt="1495281137211" redirect="true"/>
 </manifest>
