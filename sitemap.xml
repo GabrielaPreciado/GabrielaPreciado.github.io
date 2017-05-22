@@ -185,5 +185,8 @@
     <image:image>
       <image:loc>http://gabrielapreciado.github.io/images/d664x45.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://gabrielapreciado.github.io/images/flecha.png</image:loc>
+    </image:image>
   </url>
 </urlset>

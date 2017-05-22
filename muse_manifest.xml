@@ -1,10 +1,10 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="gabrielapreciado.github.io" resolutions="1x" timestamp="1495476950514">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="gabrielapreciado.github.io" resolutions="1x" timestamp="1495478772365">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="master_a-p_g_-maestra.css" crc="326751566" ref="index"/>
-    <file name="index.css" crc="4070313986" ref="index"/>
+    <file name="index.css" crc="253567593" ref="index"/>
     <file name="nomq_preview_master_a-p_g_-maestra.css" crc="3824530138" ref="index"/>
-    <file name="nomq_index.css" crc="341917438" ref="index"/>
+    <file name="nomq_index.css" crc="3944602943" ref="index"/>
     <file name="iefonts_index.css" crc="3824530138" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -252,6 +252,11 @@
     <file name="d664x45.jpg" crc="4189156595" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="gabriela-preciado--diseño-gráfico-favicon.ico" crc="453283005" ref="index"/>
+    <file name="flecha.png" crc="4098333801" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="86874090" seo="true" mt="1495476892705" redirect="true"/>
+  <file name="index.html" crc="4077255392" seo="true" mt="1495478746440" redirect="true"/>
 </manifest>
